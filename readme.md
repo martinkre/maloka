@@ -10,11 +10,8 @@ A modern glass-morphism theme for OPNsense with customizable wallpaper support. 
 
 ## Images
 ![Dashboard](screenshots/DashboardOPNSense2.PNG)
-![Firewall Log](screenshots/FirewallLog.PNG)
-![FirewallRUleModal](screenshots/FirewallRuleModal.PNG)
-![Firewall RUles](screenshots/FireWallRules.PNG)
-![Settings](screenshots/Settings.PNG)
-![SideMenu](screenshots/SideMenu.PNG)
+![alt text](<screenshots/mobile (3).jpeg>)![alt text](<screenshots/mobile (5).jpeg>)
+
 
 ## Installation
 
