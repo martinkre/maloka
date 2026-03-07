@@ -10,7 +10,7 @@ A modern glass-morphism theme for OPNsense with customizable wallpaper support. 
 
 ## Images
 
-<img src="screenshots/DashboardOPNSense2.PNG" width="100" height="100"/>
+<img src="screenshots/DashboardOPNSense2.PNG" width="1897/2" height="892/2"/>
 <img src="screenshots/mobile (3).jpeg" width="100" height="100"/>
 <img src="screenshots/mobile (5).jpeg" width="100" height="100"/>
 
