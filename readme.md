@@ -1,4 +1,4 @@
-# OPNsense Glass Theme
+# Maloka Theme for OPNSense
 
 A modern glass-morphism theme for OPNsense with customizable wallpaper support. Based on the Rebellion theme with enhanced visual effects.
 
