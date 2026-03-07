@@ -2124,7 +2124,8 @@ label {
   display: inline-block;
   max-width: 100%;
   margin-bottom: 5px;
-  font-weight: normal; }
+  font-weight: normal; 
+  color: #f1f1f1; }
 
 input[type=search] {
   -webkit-box-sizing: border-box;
@@ -2185,7 +2186,7 @@ input[type=text], input[type=password], input[type=datetime], input[type=datetim
   padding: 6px 12px;
   font-size: 14px;
   line-height: 1.428571429;
-  color: #1b1f1b;
+  color: #f1f1f1; 
   background-color: rgba(255, 255, 255, 0.1) !important; /* Adjust transparency here */
   backdrop-filter: blur(10px) saturate(150%); /* The blur effect */
   -webkit-backdrop-filter: blur(10px) saturate(150%); /* Safari support */
@@ -3868,7 +3869,9 @@ tbody.collapse.in {
     border-bottom-color: #333; } }
 
 .tab-content > .tab-pane {
-  display: none; }
+  display: none;   
+  color: #f1f1f1; 
+ }
 
 .tab-content > .active {
   display: block; }
