@@ -9,8 +9,8 @@ A modern glass-morphism theme for OPNsense with customizable wallpaper support. 
 - **Rebellion Foundation** - Built on the proven Rebellion theme. I modified the rebellion theme
 
 ## Images
-![Dashboard](screenshots/DashboardOPNSense2.PNG)
-![alt text](<screenshots/mobile (3).jpeg>)![alt text](<screenshots/mobile (5).jpeg>)
+![Dashboard](screenshots/DashboardOPNSense2.PNG=250x250)
+![alt text](<screenshots/mobile (3).jpeg> =250x250)![alt text](<screenshots/mobile (5).jpeg>=250x250)
 
 
 ## Installation
