@@ -6,11 +6,11 @@ A modern glass-morphism theme for OPNsense with customizable wallpaper support. 
 
 - **Glass Effect Panels** - Frosted glass aesthetic on all UI panels
 - **Customizable Wallpaper** - Easy background personalization
-- **Rebellion Foundation** - Built on the proven Rebellion theme
+- **Rebellion Foundation** - Built on the proven Rebellion theme. I modified the rebellion theme
 
 ## Installation
 
-1. Download the theme archive
+1. Download the theme archive from the releases and unpack
 2. Transfer via SFTP to `/usr/local/opnsense/www/themes/`
 3. Select the theme from OPNsense settings
 
@@ -22,4 +22,4 @@ put theme-archive.tar.gz /usr/local/opnsense/www/themes/
 
 ## Customization
 
-Modify the wallpaper by replacing the background image in the theme directory.
+Modify the wallpaper by replacing the background image in the theme/build/images directory.
